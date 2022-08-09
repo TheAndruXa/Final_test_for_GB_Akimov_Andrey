@@ -1,0 +1,15 @@
+/Users/theandruxa/Desktop/Итоговая проверочная/decision/bin/Debug/net6.0/decision
+/Users/theandruxa/Desktop/Итоговая проверочная/decision/bin/Debug/net6.0/decision.deps.json
+/Users/theandruxa/Desktop/Итоговая проверочная/decision/bin/Debug/net6.0/decision.runtimeconfig.json
+/Users/theandruxa/Desktop/Итоговая проверочная/decision/bin/Debug/net6.0/decision.dll
+/Users/theandruxa/Desktop/Итоговая проверочная/decision/bin/Debug/net6.0/decision.pdb
+/Users/theandruxa/Desktop/Итоговая проверочная/decision/obj/Debug/net6.0/decision.csproj.AssemblyReference.cache
+/Users/theandruxa/Desktop/Итоговая проверочная/decision/obj/Debug/net6.0/decision.GeneratedMSBuildEditorConfig.editorconfig
+/Users/theandruxa/Desktop/Итоговая проверочная/decision/obj/Debug/net6.0/decision.AssemblyInfoInputs.cache
+/Users/theandruxa/Desktop/Итоговая проверочная/decision/obj/Debug/net6.0/decision.AssemblyInfo.cs
+/Users/theandruxa/Desktop/Итоговая проверочная/decision/obj/Debug/net6.0/decision.csproj.CoreCompileInputs.cache
+/Users/theandruxa/Desktop/Итоговая проверочная/decision/obj/Debug/net6.0/decision.dll
+/Users/theandruxa/Desktop/Итоговая проверочная/decision/obj/Debug/net6.0/refint/decision.dll
+/Users/theandruxa/Desktop/Итоговая проверочная/decision/obj/Debug/net6.0/decision.pdb
+/Users/theandruxa/Desktop/Итоговая проверочная/decision/obj/Debug/net6.0/decision.genruntimeconfig.cache
+/Users/theandruxa/Desktop/Итоговая проверочная/decision/obj/Debug/net6.0/ref/decision.dll
