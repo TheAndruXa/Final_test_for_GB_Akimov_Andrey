@@ -12,3 +12,4 @@
                 Console.WriteLine(arr[i]);   
             }
         }
+3.  Работаем по этой блок-схеме [This one](%D0%91%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D0%B0.png)
