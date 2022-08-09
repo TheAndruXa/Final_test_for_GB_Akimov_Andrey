@@ -1,1 +1,14 @@
-# Final_test_for_GB_Akimov_Andrey
+# **Описание решения задачи**
+1. Создаем массив строк;
+
+        string[] arr = new string[] {"hello", "2", "world", ":-"};
+
+2. Проверяем длину каждого элемента, сколько из них подходит по условию, подошедшие выводим на терминал;
+
+        for (int i = 0; i < arr.Length; i++)
+        {
+            if (arr[i].Length <= 3)
+            {
+                Console.WriteLine(arr[i]);   
+            }
+        }
